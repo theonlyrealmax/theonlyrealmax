@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theonlyrealmax
 - 👀 I’m interested in Blockchain and Cryptography
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java & C++
 - 💞️ I’m looking to collaborate on any project really
 - 📫 How to reach me pustovrh.maks@gmail.com
 
